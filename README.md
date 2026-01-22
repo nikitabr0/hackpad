@@ -1,5 +1,18 @@
 # nikitabr0's hackpad
-<img width="1236" height="870" alt="image" src="https://github.com/user-attachments/assets/a2bdf0f3-e2a3-487c-ad6c-dd724167b9b2" />
+![IMG_20260103_002624](https://github.com/user-attachments/assets/0cffbcab-c0e3-4b67-bbb7-6a8ce52307a2)
+[Demo video](https://youtu.be/7ATBC-yoFk0)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/01eafb3b-19b2-4498-9282-4e710a8d48dc"</td>
+    <td><img src="https://github.com/user-attachments/assets/c7764aa5-2316-48ad-9c05-62313e9f1dea"</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2421a1ec-f03d-427d-9370-2d949d4edbe4"</td>
+    <td><img src="https://github.com/user-attachments/assets/421587ed-205d-4b86-bde2-0a2339d4e8cf"</td>
+  </tr>
+</table>   
+
 
 My hackpad features 9 MX-style keyswitches and two EC11 rotary encoders. It has two modes: media control and gaming mode, the latter being mostly for simulators, that require large amounts of keybinds.
 
@@ -18,6 +31,7 @@ The firmware if written in KMK for the sake of simplicity, although I may try re
 <img width="1026" height="736" alt="image" src="https://github.com/user-attachments/assets/e856f821-a921-4a49-8e11-43a76a06252b" />
 
 ### Case assembly
+<img width="1236" height="870" alt="image" src="https://github.com/user-attachments/assets/a2bdf0f3-e2a3-487c-ad6c-dd724167b9b2" />
 <img width="870" height="1016" alt="image" src="https://github.com/user-attachments/assets/4a9578e4-ffad-4b1e-a4a7-56be541e67b8" />
 
 #
